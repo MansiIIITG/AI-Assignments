@@ -1,0 +1,10 @@
+Initial state : An empty board, in this case queue i.e. no queen present on the board
+
+Set of states : The states are the number of queens that lie between 0 to 8, these are the column numbers of the ith row, on ith index of the vector
+
+state operation : The operation is to move queen to left most empty column on the next row on the board such that neither does it attack nor is attcked by the present queens.
+
+path cost : The path cost is same for states at each level.
+			The cost of first level is 1, then it keeps increasing by 1 and reaches till 8;
+
+Goal state : A board with 8 queens present on it , all in non attacking positions
