@@ -1,0 +1,8 @@
+AI-2's choice : 3
+AI-2's choice : 2
+AI-2's choice : 2
+AI-2's choice : 2
+AI-2's choice : 1
+*********************************
+	Bot2 Won!!!
+*********************************

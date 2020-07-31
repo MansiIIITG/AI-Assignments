@@ -1,0 +1,3 @@
+Pick no. of sticks : 10
+Enter your choice :'a' for Bot1 v/s Bot2'b' Bot v/s Human :	a
+Which bot do you want to play first ? (1 or 2) : 2
