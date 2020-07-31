@@ -1,0 +1,5 @@
+N queen using A*
+
+Enter N 
+
+Here N = 8
